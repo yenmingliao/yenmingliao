@@ -1,0 +1,96 @@
+.a2-bg {
+    padding-bottom: 98%;
+    position: relative;
+}
+
+.a2-bg .bed {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.a2-bg .angel {
+    width: 14.4%;
+    position: absolute;
+    animation-fill-mode: inherit;
+    animation-duration: inherit;
+    animation-play-state: inherit;
+}
+
+.a2-bg .row1-col1 {
+    left: 1%;
+    top: 69.5%;
+}
+
+.a2-bg .row2-col1 {
+    left: 1%;
+    top: 62.5%;
+}
+
+.a2-bg .row3-col1 {
+    left: 1%;
+    top: 55.5%;
+}
+
+.a2-bg .row4-col1 {
+    left: 1%;
+    top: 48.5%;
+}
+
+.a2-bg .row5-col1 {
+    left: 1%;
+    top: 41.5%;
+}
+
+.a2-bg .row6-col1 {
+    left: 1%;
+    top: 34.5%;
+}
+
+.a2-bg .row7-col1 {
+    left: 1%;
+    top: 27.5%;
+}
+
+.a2-bg .row8-col1 {
+    left: 1%;
+    top: 20.5%;
+}
+
+.a2-bg .row9-col1 {
+    left: 1%;
+    top: 13.5%;
+}
+
+#angel-1 {
+    animation-delay: 1.1s;
+}
+
+#angel-2 {
+    animation-delay: 1.3s;
+}
+
+#angel-3 {
+    animation-delay: 1.5s;
+}
+
+#angel-4 {
+    animation-delay: 1.7s;
+}
+#angel-5 {
+    animation-delay: 1.9s;
+}
+#angel-6 {
+    animation-delay: 2.1s;
+}
+#angel-7 {
+    animation-delay: 2.3s;
+}
+
+#angel-8 {
+    animation-delay: 2.5s;
+}
+#angel-9 {
+    animation-delay: 2.7s;
+}
